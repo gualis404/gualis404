@@ -1,34 +1,17 @@
-<h4 align="center">what am i interested in?</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-</div>
-
-###
+ <div align="center">
+ 
+ [![sqarlex](https://cdn.discordapp.com/attachments/604649685113765917/885248252214136902/logophot2.png)](https://github.com/sqarlex/)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=gualis404" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=gualis404" height="100" alt="languages graph"  />
+ 
+  ### Discord prosu! 🤠
+  
+[![sqarlex](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsqarlex%2F&count_bg=%233897f1&title_bg=%23555555&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sqarlex/)
+
+[<img src="https://discord.c99.nl/widget/theme-3/961687693882949692.png"></img>](https://discord.com/users/961687693882949692)
+
+  ***
+  <a href=#><img src="sqarlexcontributions.svg"></a>
+
 </div>
-
-###
-
-<div align="center">
-  [<img src="https://visitor-badge.laobi.icu/badge?page_id=gualis404.gualis404&left_text=profile views">]
 </div>
-
-###
-
-<h5 align="left">I do not use any social media platform.</h5>
-
-###
